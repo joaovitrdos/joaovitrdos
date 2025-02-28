@@ -1,9 +1,9 @@
+
 ### Olá, eu João Vitor Santos 👋.
 
-Olá, meu nome é João Vitor, eu tenho 18 anos e sou estudante entusiasmado do curso de Sistemas de Informação na UNES.
+Olá, meu nome é João Vitor, tenho 18 anos e sou estudante de Sistemas de Informação na UNES. Tenho grande entusiasmo por desenvolvimento mobile e atualmente estou focado em aprender e aplicar React Native para criar aplicativos móveis modernos.
 
-Busco uma oportunidade como Desenvolvedor Web Front-End para aplicar os conhecimentos recém adquiridos, aprender de forma ativa, contribuir para o crescimento da equipe e adquirir experiência prática.
-
+Busco uma oportunidade como Desenvolvedor Mobile para aplicar os conhecimentos que tenho adquirido e continuar aprendendo de forma ativa, além de contribuir para o crescimento de uma equipe e adquirir experiência prática.
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://portifoliojvs.netlify.app/)
 
@@ -13,15 +13,18 @@ Busco uma oportunidade como Desenvolvedor Web Front-End para aplicar os conhecim
 
 ![joaovitrdos GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitrdos&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia dia 
+### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/GenilsonDC/Skills_icons_48x48/refs/heads/main/icons/sass.png">
-  
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+
+---
+
+Agora o seu perfil reflete sua experiência como desenvolvedor mobile com React Native e inclui as tecnologias que você usa no seu dia a dia.v>
