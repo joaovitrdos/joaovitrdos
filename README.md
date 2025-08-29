@@ -5,7 +5,7 @@ Olá, meu nome é João Vitor, tenho 18 anos e sou estudante de Sistemas de Info
 
 Busco uma oportunidade como Desenvolvedor Mobile para aplicar os conhecimentos que tenho adquirido e continuar aprendendo de forma ativa, além de contribuir para o crescimento de uma equipe e adquirir experiência prática.
 
-[![Blog](https://joaovitorsantos.netlify.app/)
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://joaovitorsantos.netlify.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
