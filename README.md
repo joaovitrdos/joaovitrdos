@@ -16,8 +16,13 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Back-End, onde 
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   <img align="center" alt="Spring Boot" height="30" width="30"
+       src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Database" height="30" width="30"
+       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
