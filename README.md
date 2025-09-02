@@ -28,7 +28,3 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Back-End, onde 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
----
-
-Agora o seu perfil reflete sua experiência como desenvolvedor mobile com React Native e inclui as tecnologias que você usa no seu dia a dia.v>
