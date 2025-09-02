@@ -1,9 +1,9 @@
 
 ### Olá, eu João Vitor Santos 👋.
 
-Olá, meu nome é João Vitor, tenho 18 anos e sou estudante de Sistemas de Informação na UNES. Tenho grande entusiasmo por desenvolvimento mobile e atualmente estou focado em aprender e aplicar React Native para criar aplicativos móveis modernos.
+Olá! Meu nome é João Vitor, tenho 18 anos e sou estudante de Sistemas de Informação na UNES. Sou apaixonado por tecnologia e atualmente estou focado no desenvolvimento Back-End, buscando dominar as principais ferramentas e práticas do ecossistema Java, especialmente com Spring Boot, JPA, APIs RESTful e MySQL.
 
-Busco uma oportunidade como Desenvolvedor Mobile para aplicar os conhecimentos que tenho adquirido e continuar aprendendo de forma ativa, além de contribuir para o crescimento de uma equipe e adquirir experiência prática.
+Estou em busca da minha primeira oportunidade como Desenvolvedor Back-End, onde eu possa aplicar na prática os conhecimentos que venho adquirindo, crescer profissionalmente e contribuir com soluções eficientes e escaláveis para a equipe.
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://joaovitorsantos.netlify.app/)
 
