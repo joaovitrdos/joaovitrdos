@@ -1,7 +1,7 @@
 
 ### Olá, eu João Vitor Santos 👋.
 
-Olá! Meu nome é João Vitor, sou desenvolver Back-End, buscando dominar as principais ferramentas e práticas do ecossistema Java, especialmente com Spring Boot, JPA, JWT, API RESTe MySQL.
+Olá! Meu nome é João Vitor, sou desenvolver Back-End, buscando dominar as principais ferramentas e práticas do ecossistema Java
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitor-oliveira/)
 
